@@ -1,0 +1,38 @@
+body {
+    background: rgb(36, 53, 63);
+    font-family: "Titillium Web", sans-serif;
+}
+
+.box {
+    background: rgb(36, 53, 63);
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+}
+
+.box h1 , button {
+    color: rgb(23, 162, 184);
+}
+
+.box input {
+    background-color: transparent !important;
+    color: rgb(255, 255, 255) !important;
+    box-shadow: none !important;
+}
+
+.box button:hover {
+    color: #fff;
+}
+
+.box p a {
+    text-decoration: none;
+}
+
+.box p a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
